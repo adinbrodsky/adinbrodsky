@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @adinbrodsky
+- 👀 I’m interested in ... Everything Web
+- 🌱 I’m currently learning ... Python and JavaScript
+- 📫 How to reach me ... adinbrodsky@gmail.com
